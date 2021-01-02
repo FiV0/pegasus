@@ -1,0 +1,19 @@
+{:paths ["src"]
+ :deps
+ {clj-http/clj-http {:mvn/version "3.9.1" }
+  clj-named-leveldb/clj-named-leveldb {:mvn/version "0.1.0" }
+  clj-robots/clj-robots {:mvn/version "0.6.0" }
+  clj-time/clj-time                            {:mvn/version "0.14.4" }
+  com.taoensso/timbre {:mvn/version "4.10.0"}
+  enlive/enlive {:mvn/version "1.1.6" }
+  factual/clj-leveldb {:mvn/version "0.1.1"}
+  fort-knox {:mvn/version "0.4.0"}
+  com.github.kyleburton/clj-xpath {:mvn/version "1.4.11"}
+  factual/durable-queue {:mvn/version "0.1.5"}
+  me.raynes/fs {:mvn/version "1.4.6"}
+  org.bovinegenius/exploding-fish {:mvn/version "0.3.6"}
+  org.clojure/clojure {:mvn/version "1.9.0"}
+  org.clojure/core.async {:mvn/version "0.4.474"}
+  org.clojure/tools.namespace {:mvn/version "0.2.11"}
+  prismatic/schema {:mvn/version "1.1.9"}
+  slingshot {:mvn/version "0.12.2"}}}
